@@ -1,2 +1,7 @@
 initial content
+<<<<<<< HEAD
 Change in Master which will create conflict
+=======
+changed in ftr-branch-1 to cause a conflict
+>>>>>>> ftr-branch-1
+OK - resolved with an editor.
